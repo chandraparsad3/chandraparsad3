@@ -1,9 +1,9 @@
 <!-- Header Section -->
-<h1 align="center">Hi there! 👋 I'm Chandraparsad</h1>
-<h3 align="center">Passionate developer with a focus on ML/AI, enthusiastic about System Design, Backend development, Algorithms, and APIs.</h3>
+<h1 align="center" style="color: #6e5494;">Hi there! 👋 I'm Chandraparsad</h1>
+<h3 align="center" style="color: #6e5494;">Passionate developer with a focus on ML/AI, enthusiastic about System Design, Backend development, Algorithms, and APIs.</h3>
 
 <!-- Contact Section -->
-<p align="center">
+<p align="center" style="color: #6e5494;">
   📫 How to reach me: <strong>chandraparsad02@gmail.com</strong>
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <!-- Social Media Links Section -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" style="color: #6e5494;">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/@chandraparsad03" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -28,6 +28,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+
 
 <!-- Skills Section -->
 <h3 align="center">Languages and Tools:</h3>
@@ -52,16 +53,14 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
 
-
 <!-- GitHub Stats Section -->
-
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandraparsad3&show_icons=true&locale=en&layout=compact" alt="chandraparsad3" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandraparsad3&show_icons=true&locale=en" alt="chandraparsad3" /></p>
-
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandraparsad3&show_icons=true&locale=en&layout=compact" alt="chandraparsad3" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandraparsad3&show_icons=true&locale=en" alt="chandraparsad3" /></p>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandraparsad3&" alt="chandraparsad3" /></p>
+
+
 
 
