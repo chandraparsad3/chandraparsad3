@@ -2,6 +2,9 @@
 <h3 align="center">Passionate developer with a focus on ML/AI, enthusiastic about System Design, Backend development, Algorithms and APIs.</h3>
 
 - 📫 How to reach me **chandraparsad02@gmail.com**
+<p align="right">
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/tile" alt="Image" width="300"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
