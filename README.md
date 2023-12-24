@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **chandraparsad02@gmail.com**
 <p align="right">
-  <img src="programmer.gif" alt="Image" width="300"/>
+  <img src="programmer.gif" alt="Image" width="200"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
