@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **chandraparsad02@gmail.com**
 <p align="right">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/tile" alt="Image" width="300"/>
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Image" width="300"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
