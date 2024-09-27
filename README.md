@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center" style="color: #6e5494;">Hi there! 👋 I'm Chandraparsad</h1>
-<h3 align="center" style="color: #6e5494;">Passionate developer with a focus on ML/AI, enthusiastic about System Design, Backend development, Algorithms, and APIs.</h3>
+<h3 align="center" style="color: #6e5494;">Passionate developer specializing in ML/AI, dedicated to advancing research and exploring innovative solutions in IoT and Healthcare.</h3>
 
 <!-- Contact Section -->
 <p align="center" style="color: #6e5494;">
@@ -34,10 +34,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
