@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center" style="color: #6e5494;">Hi there! 👋 I'm Chandraparsad</h1>
-<h3 align="center" style="color: #6e5494;">Passionate developer specializing in ML/AI, dedicated to advancing research and exploring innovative solutions in IoT and Healthcare.</h3>
+
 
 <!-- Contact Section -->
 <p align="center" style="color: #6e5494;">
