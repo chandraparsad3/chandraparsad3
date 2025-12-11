@@ -1,64 +1,62 @@
-<!-- Header Section -->
-<h1 align="center" style="color: #6e5494;">Hi there! 👋 I'm Chandraparsad</h1>
+# Hi, I'm Chandraparsad  
+AI · Machine Learning · NLP for Low-Resource Languages  
+I read research papers to deepen my understanding of AI.
+---
+
+## About Me
+I work in Artificial Intelligence, Machine Learning, and Natural Language Processing with a focus on low-resource languages like Burmese.  
+I’m interested in applied ML, transformer models, and AI systems that create social impact.  
+I prefer minimal, clean engineering and reproducible research.
+
+---
+
+## Publications
+**Applied ML Algorithms for Happiness Index Prediction of Nations**  
+Springer (2024)  
+https://link.springer.com/chapter/10.1007/978-3-031-86299-1_22
+
+---
+
+## Patents
+**1. IOT-Based Smart Fungi Detection System**  
+Application No: 202421033243  
+Published: 07/06/2024  
+Status: Awaiting Examination  
+
+**2. Wearable Safety Device for Travel and Wellness**  
+Application No: 202521118932  
+Status: Filed — Awaiting Publication & Examination  
+
+---
+
+## Book Chapter (Accepted)
+**Mental Health Analytics in the Workplace: Leveraging AI and Big Data for Proactive Wellbeing and Talent Sustainability**  
+To appear in *AI and the Future of Talent: Strategic Workforce Intelligence for Industry 5.0* (2025).
+
+---
+
+## Current Work
+- Transformer-based Fake News Detection in Burmese Digital Media  
+- NLP for underrepresented languages  
+
+---
+
+## Skills
+
+**Machine Learning & AI:**  
+Python · PyTorch · TensorFlow · Scikit-learn · LangChain · NumPy · Pandas  
+
+**Tools & Systems:**  
+Git · Linux · SQL · Flask · Django · Docker  
+
+**Programming Languages:**  
+Python · Java · C++ · SQL
 
 
-<!-- Contact Section -->
-<p align="center" style="color: #6e5494;">
-  📫 How to reach me: <strong>chandraparsad02@gmail.com</strong>
-</p>
+---
 
-<!-- Image Section -->
-<p align="center">
-  <img src="programmer.gif" alt="Programming GIF" width="200"/>
-</p>
+## Contact
+LinkedIn: https://linkedin.com/in/chandra-parsad-691124293  
+Email: chandraparsad02@gmail.com  
 
-<!-- Social Media Links Section -->
-<h3 align="center" style="color: #6e5494;">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/@chandraparsad03" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/chandra-parsad-691124293" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://hashnode.com/@chandraparsad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/chandraparsad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
-
-<!-- Skills Section -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-</p>
-
-<!-- GitHub Stats Section -->
-<p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandraparsad3&show_icons=true&locale=en&layout=compact" alt="chandraparsad3" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandraparsad3&show_icons=true&locale=en" alt="chandraparsad3" /></p>
-</p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandraparsad3&" alt="chandraparsad3" /></p>
-
-
-
-
+---
