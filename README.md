@@ -1,4 +1,4 @@
-# Chandraparsad  
+# 👋 Hi there, I'm Chandraparsad  
 AI · Machine Learning · NLP for Low-Resource Languages  
 I study ML and NLP research papers to understand the technical depth behind modern AI systems.
 
