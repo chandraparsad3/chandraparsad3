@@ -1,12 +1,14 @@
-# Hi, I'm Chandraparsad  
+# Chandraparsad  
 AI · Machine Learning · NLP for Low-Resource Languages  
-I read research papers to deepen my understanding of AI.
+I study ML and NLP research papers to understand the technical depth behind modern AI systems.
+
 ---
 
 ## About Me
 I work in Artificial Intelligence, Machine Learning, and Natural Language Processing with a focus on low-resource languages like Burmese.  
-I’m interested in applied ML, transformer models, and AI systems that create social impact.  
-I prefer minimal, clean engineering and reproducible research.
+My long-term interest lies in building AI systems for low-resource languages and socially impactful applications.  
+I’m interested in applied ML, transformer architectures, and model behavior in real-world settings.  
+I value minimal, clean engineering and reproducible research practices.
 
 ---
 
@@ -37,7 +39,7 @@ To appear in *AI and the Future of Talent: Strategic Workforce Intelligence for 
 
 ## Current Work
 - Transformer-based Fake News Detection in Burmese Digital Media  
-- NLP for underrepresented languages  
+- NLP for underrepresented and low-resource languages  
 
 ---
 
@@ -52,11 +54,8 @@ Git · Linux · SQL · Flask · Django · Docker
 **Programming Languages:**  
 Python · Java · C++ · SQL
 
-
 ---
 
 ## Contact
 LinkedIn: https://linkedin.com/in/chandra-parsad-691124293  
 Email: chandraparsad02@gmail.com  
-
----
