@@ -8,7 +8,6 @@ I study ML and NLP research papers to understand the technical depth behind mode
 ## About Me
 I work in Artificial Intelligence, Machine Learning, and Natural Language Processing, with a focus on low-resource languages such as Burmese.  
 I am motivated to explore data-efficient and intelligent decision-making approaches, particularly in low-resource and socially impactful settings.  
-My interests include applied machine learning, reinforcement learning, transformer architectures, and understanding model behavior in real-world contexts.  
 I value minimal, clean engineering and reproducible research practices.
 
 
