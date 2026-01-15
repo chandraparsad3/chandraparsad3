@@ -27,8 +27,9 @@ Published: 07/06/2024
 Status: Awaiting Examination  
 
 **2. Wearable Safety Device for Travel and Wellness**  
-Application No: 202521118932  
-Status: Filed — Awaiting Publication & Examination  
+Application No:202521118932 A
+Published: 09/01/2026
+Status: Filed — Awaiting Examination  
 
 ---
 
