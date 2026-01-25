@@ -18,6 +18,10 @@ I value minimal, clean engineering and reproducible research practices.
 Springer (2024)  
 https://link.springer.com/chapter/10.1007/978-3-031-86299-1_22
 
+**Machine Learning for Pediatric Oncology**<br>
+Amazon Kindle (2026)<br>
+https://amzn.in/d/4hzRJ6S
+
 ---
 
 ## Patents
@@ -29,7 +33,7 @@ Status: Awaiting Examination
 **2. Wearable Safety Device for Travel and Wellness**  
 Application No:202521118932   
 Published: 09/01/2026    
-Status: Filed — Awaiting Examination  
+Status: Awaiting Examination  
 
 ---
 
